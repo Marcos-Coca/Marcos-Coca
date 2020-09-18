@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi, I'm Marcos 💻 👋
 
-<!--
-**Marcos-Coca/Marcos-Coca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior frontend developer who's looking for new opportunities!
 
-Here are some ideas to get you started:
+- 🔭 I'm looking for a **Job** 
+- 🌱 I'm currently improving my JS and React
+- 📚 I'm reading Kyle Simpson [You Don't Know JS Yet (book series)](https://github.com/getify/You-Dont-Know-JS) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### More About me...
+
+```javascript
+const Marcos = {
+
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Redux, Node, Express, Jest, Angular],
+  
+  
+ Goal: "Improve my Angular and React skills"
+}
+```
+
+<img src="https://media.giphy.com/media/LOtqITm3tFmiA/giphy.gif" width="60"/>  Love ***Programming*** and ***learn*** about it, and i would like share knowledge.
