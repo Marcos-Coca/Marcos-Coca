@@ -1,21 +1,22 @@
 ## Hi, I'm Marcos 💻 👋
 
-I'm a junior frontend developer who's looking for new opportunities!
+I'm a Frontend developer who's looking for new opportunities!
 
 - 🔭 I'm looking for a **Job** 
-- 🌱 I'm currently improving my JS and React
-- 📚 I'm reading Kyle Simpson [You Don't Know JS Yet (book series)](https://github.com/getify/You-Dont-Know-JS) 
+- 🌱 Currently improving my skilks in React
+- 💻 Learning more about Algorithms, see my profile in [LeetCode](https://leetcode.com/Marcos-Coca/) 
+- 📚 Reading Kyle Simpson [You Don't Know JS Yet (book series)](https://github.com/getify/You-Dont-Know-JS) 
 
 ### More About me...
 
 ```javascript
 const Marcos = {
-
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, Node, Express, Jest, Angular],
-  
-  
- Goal: "Improve my Angular and React skills"
+  code: [Javascript, Typescript, HTML, CSS, Python],
+  skills:{
+    Test:Jest,
+    Frontend:[React,Redux],
+    Frameworks:[Next,Gatsby,Express],
+  }
 }
 ```
 
