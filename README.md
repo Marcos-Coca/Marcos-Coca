@@ -13,9 +13,9 @@ I'm a Web developer who's looking for new opportunities!
 const Marcos = {
   code: [Javascript, HTML, CSS, Python,C#],
   skills:{
-    Test:Jest,
-    Frontend:[React,Angular],
-    Frameworks:[Next, Gatsby, Express, ASP.NET],
+    Test: Jest,
+    Frontend: [React, Angular],
+    Frameworks: [Next, Gatsby, Express, ASP.NET],
   }
 }
 ```
